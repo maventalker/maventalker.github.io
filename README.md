@@ -1,6 +1,3 @@
-# maventalker.github.io
-
-
 ### About Me 
 
 Software engineer , System Architect , more than 12 years' related experience.
