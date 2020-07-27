@@ -18,6 +18,9 @@ Software engineer , System Architect , Product Manager , Starup , More than 13 y
 ![](https://imgkr.cn-bj.ufileos.com/e37c25c2-d2a4-4174-953b-07adbd0f9b56.jpeg)
 
 
+### 技术专栏
+[Spring Cloud Alibaba 微服务开发实战](https://gitbook.cn/gitchat/column/5eb0d962d57c4106ecc28597)
+
 ### 开源项目
 
 1. [https://github.com/backkoms/web-api-demo](https://github.com/backkoms/web-api-demo)
