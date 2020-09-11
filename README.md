@@ -4,21 +4,21 @@ Software engineer , System Architect , Product Manager , Starup , More than 13 y
 
 > Studied in NCWU，Adrift in Beijing，now living in ChangSha.
 
-### 个人公众号(Follow Me)
+### 我的公众号
 
-![](https://imgkr.cn-bj.ufileos.com/f99814ca-9175-4c48-a793-81d46068e36c.jpg)
+![](https://static01.imgkr.com/temp/76753061478147af86afd9e95ca4a9a0.jpg)
 
-### 我的知识星球(Join Us)
+### 我的知识星球
 
 分享阅读、写作、职业规划、职业困惑、个人成长、技术提升等内容，问题提问.
 
-![](https://imgkr.cn-bj.ufileos.com/75ab2d42-80b1-4164-9ac5-c23de5f522e6.png)
+![](https://static01.imgkr.com/temp/6e741eb6889f42a0b489f27e71b98734.png)
 
-### 个人微信(@me)
-![](https://imgkr.cn-bj.ufileos.com/e37c25c2-d2a4-4174-953b-07adbd0f9b56.jpeg)
+### 我的微信
+![](https://static01.imgkr.com/temp/f406ed5745c34c7db582e224d46cc38b.jpeg)
 
 
-### 技术专栏
+### GitChat技术专栏
 [Spring Cloud Alibaba 微服务开发实战](https://gitbook.cn/gitchat/column/5eb0d962d57c4106ecc28597)
 
 ### 开源项目
