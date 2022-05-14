@@ -8,11 +8,11 @@ Software engineer , System Architect , Product Manager , Starup , More than 13 y
 
 ![](https://static01.imgkr.com/temp/76753061478147af86afd9e95ca4a9a0.jpg)
 
-### 我的知识星球
+### 我的专栏
 
 分享阅读、写作、职业规划、职业困惑、个人成长、技术提升等内容，问题提问.
 
-![](https://static01.imgkr.com/temp/6e741eb6889f42a0b489f27e71b98734.png)
+![](https://static01.imgkr.com/temp/cbf1e55f72014d09885565704e81709e.jpg)
 
 ### 我的微信
 ![](https://static01.imgkr.com/temp/f406ed5745c34c7db582e224d46cc38b.jpeg)
