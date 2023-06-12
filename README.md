@@ -1,6 +1,6 @@
 ### About Me 
 
-Software engineer , System Architect , Product Manager , Starup , More than 13 years' related experience.
+Software engineer , System Architect , Product Manager , Starup , More than 16 years' related experience.
 
 > Studied in NCWU，Adrift in Beijing，now living in ChangSha.
 
