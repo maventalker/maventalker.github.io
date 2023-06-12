@@ -10,16 +10,16 @@ Software engineer , System Architect , Product Manager , Starup , More than 16 y
 
 ### 我的专栏
 
-分享阅读、写作、职业规划、职业困惑、个人成长、技术提升等内容，问题提问.
+我不推荐你去学元宇宙、Web3或者区块链，这些离你我这样的普通人都太远，但Al不同，它是一个生产力工具，能够切实的解决你日常工作生活中遇到的问题，提高工作效率。Al不会取代你，取代你的是比你更会使用AI的人。善用Al的人，背后就如同有了一个团队，他/她的能力在被不断放大。
 
-![](https://static01.imgkr.com/temp/cbf1e55f72014d09885565704e81709e.jpg)
+人们喜欢在短期高估一项技术的价值，长期却又低估一项技术的价值，对AI也一样。
 
-### 我的微信
-![](https://static01.imgkr.com/temp/f406ed5745c34c7db582e224d46cc38b.jpeg)
+![](下载 (1).png)
+![](下载.png)
 
 
 ### GitChat技术专栏
-[Spring Cloud Alibaba 微服务开发实战](https://gitbook.cn/gitchat/column/5eb0d962d57c4106ecc28597)
+[Spring Cloud Alibaba 微服务开发实战](https://xiaozhuanlan.com/msa-practice)
 
 ### 开源项目
 
