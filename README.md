@@ -6,7 +6,7 @@ Software engineer , System Architect , Product Manager , Starup , More than 16 y
 
 ### 我的公众号
 
-![](https://static01.imgkr.com/temp/76753061478147af86afd9e95ca4a9a0.jpg)
+![](qrcode_for_gh_28fb95c9c24c_258.jpg)
 
 ### 我的专栏
 
